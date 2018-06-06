@@ -3,8 +3,8 @@
 #! /usr/perl/bin -w
 use strict;
 
-my $filein="GH24_CLAN_cluster_protid_jgi_gene_model_location.txt";
-my $fileout="GH24_CLAN_cluster_protid_jgi_gene_model_seqs.txt";
+my $filein="/home/mnguyen/Research/Symbiomics/AA9/Annie/aa9_targets_JGI_protIDs_04Jun2018_gene_location.txt";
+my $fileout="/home/mnguyen/Research/Symbiomics/AA9/Annie/aa9_targets_JGI_protIDs_04Jun2018_gene_seq.txt";
 my $foldergenome="/home/mnguyen/Research/JGI_Mycocosm/All_genome_files";
 #my $foldergenome="/home/mnguyen/Research/JGI_Mycocosm/Test";
 
